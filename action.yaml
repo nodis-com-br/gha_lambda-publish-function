@@ -1,0 +1,5 @@
+name: 'artifacts-publish-function'
+description: ''
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
